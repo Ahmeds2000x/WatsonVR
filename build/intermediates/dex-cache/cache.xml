@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\natural-language-classifier\3.4.0\21c8c9a8c375cf247a0d4f840214a10a2b147601\natural-language-classifier-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="21c8c9a8c375cf247a0d4f840214a10a2b147601">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\natural-language-classifier-3.4.0_589e017813c67cd5c9caf0a0e7c7c79eadbec03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\visual-recognition\3.4.0\3ee8c92b1b5465a3ddd14073249ca0db11575220\visual-recognition-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3ee8c92b1b5465a3ddd14073249ca0db11575220">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\visual-recognition-3.4.0_fda40040b8b0aa609b810dc255ef7dcfd24a88a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_8e0103360dd9ff17e3e416c3f3bfcd687b55c5aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_3d86c99c3ce349cbfff2e805ed29cfa73c36ca3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\personality-insights\3.4.0\7060f06e097418de59ecf8facaeb674c62f59c90\personality-insights-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7060f06e097418de59ecf8facaeb674c62f59c90">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\personality-insights-3.4.0_f0e230cb42bff9b87eea73aa067f9a3f202724e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_b18e337a1957087b9b96b901362c55efeff75d00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\alchemy\3.4.0\cb9b7dfc235b1765f8dc5cb69049fb80c50faefe\alchemy-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cb9b7dfc235b1765f8dc5cb69049fb80c50faefe">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\alchemy-3.4.0_7eca41cbf69dfab989777206fe391456f51205cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_00d16ea089161c8bb5f5d7777b1dd4d22afa1070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_2b4f0953ce0d87df2e87ec51838df4df5160f1e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\tradeoff-analytics\3.4.0\563526cf7d5e9edd60ca1be5a4e76a185bb0685c\tradeoff-analytics-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="563526cf7d5e9edd60ca1be5a4e76a185bb0685c">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\tradeoff-analytics-3.4.0_4f07a4a535f550a2f793df3316780cb998e150dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\retrieve-and-rank\3.4.0\1dfe2da9d38543062700bb2686ba99ab9ce4afbd\retrieve-and-rank-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1dfe2da9d38543062700bb2686ba99ab9ce4afbd">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\retrieve-and-rank-3.4.0_bece0529738622648c9d748c2af9e33d4c32e68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\document-conversion\3.4.0\a0e9408bd69231a47242e15f7aff6fe17973f5de\document-conversion-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a0e9408bd69231a47242e15f7aff6fe17973f5de">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\document-conversion-3.4.0_eb261cff821b22a728a2b40dbb4d880316c63ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.3.1\ebca9fdfbef870042a19aec6a5b7a21d72639310\okhttp-ws-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ebca9fdfbef870042a19aec6a5b7a21d72639310">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.3.1_c6d0317de982b6d49bb162df95ab6cb2703560c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_5a5e753c7cb1f1ff1e99ed7438090838ce44d543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\conversation\3.4.0\887a306f535bfb557908afe3dc3f88bf5578f71b\conversation-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="887a306f535bfb557908afe3dc3f88bf5578f71b">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\conversation-3.4.0_4eda1ffd09402c24e9459b5fc5525d9c563efa65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.3.1\14e70f2069fb98dc60346dd24cb7b6a2e321580d\okhttp-urlconnection-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="14e70f2069fb98dc60346dd24cb7b6a2e321580d">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.3.1_d0e313495176415f9310fea3a246345bf0d3e0b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\dialog\3.4.0\a5feeb88637bbd30cd33df150dde0c74f103c352\dialog-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a5feeb88637bbd30cd33df150dde0c74f103c352">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\dialog-3.4.0_99aaa0796728ec94a40ebbd70faaee4e5c219621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_142cac7e21e88a63b0385a072ae20c6322b248c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-jsr166e\2.22.2\3ef9c67a5bea4d914a45bd54f3405fa29a368f7a\jersey-jsr166e-2.22.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\jersey-jsr166e-2.22.2_468743d03ad31cc7fd05bdc388982266131b957b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\AppData\Local\android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d1636ef1b1bacfdee527561c01d8477e71523c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\language-translation\3.4.0\f3e9d54f4bb3e67cfd1bbd855127d00ab4a5981f\language-translation-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3e9d54f4bb3e67cfd1bbd855127d00ab4a5981f">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\language-translation-3.4.0_9e7266fba43ec6ffc94272671c3c4faaff0932c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\tone-analyzer\3.4.0\c898379a278034bbbd522fbce93987b47c030e2b\tone-analyzer-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c898379a278034bbbd522fbce93987b47c030e2b">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\tone-analyzer-3.4.0_2aa7b311dc3cc2634c51bcc05811e50faa4f2acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\core\3.4.0\e4cad22bd98e9ef8bba28d1f8b564369bacc32e6\core-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e4cad22bd98e9ef8bba28d1f8b564369bacc32e6">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\core-3.4.0_f8fb845d15e9cd49fd06948a0a214f6594933b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\okio-1.8.0_578014a9a13f609c364c4fc7473defdd0df2cb29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\speech-to-text\3.4.0\bb96782e7751d25cbe65162eacf6e92525121031\speech-to-text-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bb96782e7751d25cbe65162eacf6e92525121031">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\speech-to-text-3.4.0_4d7c23aee194560c2973bb05c16bc5cd978b6cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_aa17d85e02e47b6ddb67c8117219b10dc8515583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\text-to-speech\3.4.0\7b07efa85a9e7b24d27615c58a0995c71527aad9\text-to-speech-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7b07efa85a9e7b24d27615c58a0995c71527aad9">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\text-to-speech-3.4.0_d64d0af351f90e481ea0406c96db8443b8de3a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_1e38053b02d4f9ddd5fa942cbeeb4e9a070c7787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAEED\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\LiveProjects\AndroidProject\WatsonVR\app\build\intermediates\pre-dexed\debug\gson-2.6.2_74a44bd2a50b66db4f0dfba18cb90e012025414f.jar" />
+    </item>
+
+</items>

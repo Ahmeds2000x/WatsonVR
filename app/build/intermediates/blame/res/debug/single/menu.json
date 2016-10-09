@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\home\\troll\\dev\\android\\wats\\WatsonVR\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\home\\troll\\dev\\android\\wats\\WatsonVR\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\LiveProjects\\AndroidProject\\WatsonVR\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\LiveProjects\\AndroidProject\\WatsonVR\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

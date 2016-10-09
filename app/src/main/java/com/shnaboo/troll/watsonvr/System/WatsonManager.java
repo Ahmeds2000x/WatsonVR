@@ -19,7 +19,7 @@ public class WatsonManager extends AsyncTask<String, Void, String> {
 
 
         VisualRecognition service = new VisualRecognition(VisualRecognition.VERSION_DATE_2016_05_20);
-        service.setApiKey("0778118a4bfc1cf24345c428c89725fc2cb15243");
+        service.setApiKey("Enter YOUR api key here");
         ClassifyImagesOptions options = new ClassifyImagesOptions.Builder()
                 .images(new File(img[0]))
                 .build();

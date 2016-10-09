@@ -23,7 +23,7 @@ public class WatsonT2SManager extends AsyncTask<String, Void, Uri> {
     protected Uri doInBackground(String... texts){
         context = GlobalManager.getAppContext();
         TextToSpeech service = new TextToSpeech();
-        service.setUsernameAndPassword("5f86bfc7-af0f-486b-8b69-5707e7f70103", "5kiKCZgsuVNp");
+        service.setUsernameAndPassword("Enter YOUR username here", "Enter YOUR password here");
         InputStream stream;
         InputStream in;
         InputStream inn;
