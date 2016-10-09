@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">image2language</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_listening">Listening</string>
+    <string name="action_close">Close</string>
+    <string name="title_activity_player">PlayerActivity</string>
+</resources>
